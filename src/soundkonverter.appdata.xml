@@ -44,6 +44,7 @@
         </ul>
         <p>If you try to convert a file that is not supported, soundKonverter will tell you which backend you need to install.</p>
     </description>
+    <content_rating type="oars-1.1"/>
 
     <screenshots>
         <screenshot type="default">
